@@ -1,7 +1,7 @@
-title: Your Name
+title: Qingsong Liu
 position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+affiliation: Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University
+email: liu-qs19@mails.tsinghua.edu.cn
 keywords: minimal academic
 google_scholar: https://scholar.google.com/
 github_link: https://github.com/yaoyao-liu/strata-academic
@@ -12,5 +12,5 @@ google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 description: The Strata Academic is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://strata-academic.yyliu.net/
+canonical: https://strata-academic.qsliu.net/
 remote_theme: qingsong-liu/strata-academic
