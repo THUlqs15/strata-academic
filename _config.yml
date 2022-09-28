@@ -13,4 +13,4 @@ favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 description: The Strata Academic is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://strata-academic.qsliu.net/
-remote_theme: qingsong-liu/strata-academic
+remote_theme: yaoyao-liu/strata-academic
